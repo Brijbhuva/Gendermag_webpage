@@ -10,6 +10,20 @@ If you want to help make software gender-inclusive, one way is to contribute to 
 
 We welcome everyone with any background to contribute to making the world of software more gender inclusive.
 
+## How to install the GenderMag Recorder's Assistant:
+
+* First, create a fork of the project to your personal GitHub account.
+* Then install the tool as follows:
+  * Click on "Clone or download" and the click "Download zip"
+  * Open Chrome and click on setting
+  * click on “More tools” -> “Extensions”
+  * Turn on developer mode by checking the “Developer Mode” checkbox
+  * Click on “Load unpacked extension”
+  * Select the folder you saved the extracted file.
+  * Enable the extension and click “Update extensions now”
+* If you want to run the tool at this point, navigate to the page you wish to perform GenderMag on,  and click the maroon bar GenderMag button at the bottom of the screen. (See the video at http://gendermag.org for examples of running it.)
+*	To turn off the GenderMag extension navigate back to “Extensions” and uncheck the “Enable” box and uncheck “Developer Mode”.
+
 ## Contributing
 
 Please follow our [Code Of Conduct](https://github.com/Brijbhuva/Gendermag_webpage/blob/master/Code_of_Conduct.md) and read our [Contributing Guide](https://github.com/mendezc1/GenderMagRecordersAssistant/blob/master/Contributing.MD).
