@@ -1,5 +1,5 @@
   <a href="http://gendermag.org" title="Gendermag" >
-    <img src="http://gendermag.org/images/rsz_profile_pic.png" width:"140" height="150" style="margin-top: 10px;">
+    <img src="http://gendermag.org/images/rsz_profile_pic.png" width:"140" height="150" style="margin-top: 10px;" align="left">
   </a>
 
 ## What is the GenderMag Recorder's Assistant?
@@ -17,18 +17,24 @@ Please follow our [Code Of Conduct](https://github.com/Brijbhuva/Gendermag_webpa
 
 ## Contributors
 
-
 Please see the
 [Contributors Graph](https://github.com/mendezc1/GenderMagRecordersAssistant/graphs/contributors) for our
 list of contributors.
 
 
-### FAQ’s:
-How to download chrome extension
+## FAQ’s:
+<ol>
+  <li>How to download chrome extension:</li>
+  
+  <li>What language do we use</li>
+  <li>How much experience with Open Source do I need?</li>
+</ol>  
 
-What language do we use
 
-How much experience with Open Source do I need?
+
+
+
+
 
 
 
