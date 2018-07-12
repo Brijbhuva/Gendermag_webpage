@@ -3,7 +3,7 @@
   <a href="http://gendermag.org" title="Gendermag">
     <img src="http://gendermag.org/images/rsz_profile_pic.png">
   </a>
-  The Gendermag Project
+  GenderMagRecordersAssistant
 </h1>
 
 
