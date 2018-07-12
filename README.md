@@ -4,7 +4,7 @@
 
 ## What is the GenderMag Recorder's Assistant?
 
-The GenderMag Recorder’s Assistant is one tool to identify gender-inclusiveness issues in software. [GenderMag](http://gendermag.org/) is a process you can use to find gender biases in user-facing software that you are designing/building. The GenderMag Recorder’s Assistant semi-automates using this process. It is easy to use and can be used by software engineers to management to usability experts.
+The GenderMag Recorder’s Assistant is a tool to identify gender-inclusiveness issues in software. [GenderMag](http://gendermag.org/) is a process you can use to find gender biases in user-facing software that you are designing/building. The GenderMag Recorder’s Assistant semi-automates using this process. It is easy to use and can be used by software engineers to management to usability experts.
 
 If you want to help make software gender-inclusive, one way is to contribute to the GenderMag Recorder’s Assistant. 
 
