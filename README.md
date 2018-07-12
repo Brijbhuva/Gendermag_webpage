@@ -45,7 +45,7 @@ Through the GM Cognitive Walkthrough we can follow the process to find gender-in
 
 Thank you very much for considering to contribute!
 
-Please make sure you follow our [Code Of Conduct]() and we also strongly recommend reading our [Contributing Guide](https://github.com/mendezc1/GenderMagRecordersAssistant/blob/master/Contributing.MD).
+Please make sure you follow our [Code Of Conduct](https://github.com/Brijbhuva/Gendermag_webpage/blob/master/Code_of_Conduct.md) and we also strongly recommend reading our [Contributing Guide](https://github.com/mendezc1/GenderMagRecordersAssistant/blob/master/Contributing.MD).
 
 
 ### Contributors
