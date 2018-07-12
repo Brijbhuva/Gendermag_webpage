@@ -7,7 +7,7 @@
 </h1>
 
 
-
+# GenderMagRecordersAssistant
 
 ## What is GenderMagRecordersAssistant?
 
@@ -20,7 +20,24 @@ The GenderMag Recorder’s Assistant is one tool to identify gender-inclusivenes
 We welcome everyone with any background to contribute to making the world of software more gender inclusive.
     
 
-Chrome Extenstion
+## Goal of the GenderMag Recorders Assistant: 
+
+GenderMag is a process you can use to find gender biases in user-facing software that you are designing/building. The GenderMag Recorder’s Assistant semi-automates using this process.
+
+## How to use the Tool:
+The GenderMag Cognitive Walkthrough specializes and streamlines the traditional cognitive walkthrough, incorporating explicit references to the five facets of gender inclusiveness:
+
+- a user’s motivations for using the software,
+
+- their information processing style,
+
+- their computer self-efficacy,
+
+- their attitude towards risk, &
+
+- their ways of learning new technology. 
+
+Through the GM Cognitive Walkthrough we can follow the process to find gender-inclusiveness issues. We can then fix the issues we find one at a time to remove barriers that may disproportionately affect one gender.
 
 
 
@@ -39,5 +56,21 @@ Please see the full
 list of contributors.
 
 
+### FAQ’s:
+How to download chrome extension
+
+What language do we use
+
+How much experience with Open Source do I need?
+
+More about GenderMag:
+
+At the GenderMag method’s core are five problem-solving facets that matter to software’s gender-inclusiveness. These facets are :
+a user’s motivations for using the software,
+their information processing style,
+their computer self-efficacy,
+their attitude towards risk, &
+their ways of learning new technology.
+The GenderMag method brings these facets to life with 4 personas (Tim, Abby, Patrick and Patricia), and sets the personas and facets into a simple, systematic process (The GenderMag Cognitive Walkthrough: http://gendermag.org, http://eusesconsortium.org/gender/GenderMagPersona-FoundationDocuments/Foundations.html).
 
 
