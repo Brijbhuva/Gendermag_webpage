@@ -47,6 +47,7 @@ list of contributors.
   <li>What language do we use:</li>
   
   <li>How much experience with Open Source do I need?</li>
+  <li>How much experience with Open Source do I need?</li>
 </ol>  
 
 
